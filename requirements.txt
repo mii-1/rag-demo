@@ -1,1 +1,8 @@
 
+### `requirements.txt`
+```txt
+streamlit
+python-dotenv
+openai>=1.35.0
+scikit-learn
+
