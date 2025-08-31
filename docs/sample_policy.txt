@@ -1,1 +1,3 @@
+All employees are required to complete annual security training by March 31.
+Remote access must use Data classified as Confidential must not be emailed externally without encryption.
 
